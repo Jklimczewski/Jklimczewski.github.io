@@ -7,7 +7,8 @@ Trzeci paragraf
 ~~Przekreślenie~~
 **Pogrubienie**
 *Kursywa*  
-> "Kiedyś nie miałem, dzisiaj mam.  
+> "Kiedyś nie miałem, dzisiaj mam."  
+
 1. Jeden
 2. Dwa
     1. Trzy
